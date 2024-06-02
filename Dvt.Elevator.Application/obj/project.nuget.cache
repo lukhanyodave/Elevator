@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4n6A353UXKujqfMABzRLQSXp+x1/RZqy9IImfHSD+/e/NicpFa9288tSbaTVdTYlc3sRlrU77F2zaT4OCrvYDQ==",
+  "success": true,
+  "projectFilePath": "C:\\New Repo\\sample\\Dvt.Elevator.Client.Console\\Dvt.Elevator.Application\\Dvt.Elevator.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lkumanda\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\lkumanda\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lkumanda\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\lkumanda\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\lkumanda\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\lkumanda\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

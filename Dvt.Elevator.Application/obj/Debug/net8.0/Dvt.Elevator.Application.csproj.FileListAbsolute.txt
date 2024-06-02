@@ -1,0 +1,16 @@
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\bin\Debug\net8.0\Dvt.Elevator.Application.deps.json
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\bin\Debug\net8.0\Dvt.Elevator.Application.dll
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\bin\Debug\net8.0\Dvt.Elevator.Application.pdb
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\bin\Debug\net8.0\Dvt.Elevator.Models.dll
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\bin\Debug\net8.0\Dvt.Elevator.Models.pdb
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\obj\Debug\net8.0\Dvt.Elevator.Application.csproj.AssemblyReference.cache
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\obj\Debug\net8.0\Dvt.Elevator.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\obj\Debug\net8.0\Dvt.Elevator.Application.AssemblyInfoInputs.cache
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\obj\Debug\net8.0\Dvt.Elevator.Application.AssemblyInfo.cs
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\obj\Debug\net8.0\Dvt.Elevator.Application.csproj.CoreCompileInputs.cache
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\obj\Debug\net8.0\Dvt.Elevator.Application.sourcelink.json
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\obj\Debug\net8.0\Dvt.Elev.38AF230C.Up2Date
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\obj\Debug\net8.0\Dvt.Elevator.Application.dll
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\obj\Debug\net8.0\refint\Dvt.Elevator.Application.dll
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\obj\Debug\net8.0\Dvt.Elevator.Application.pdb
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Application\obj\Debug\net8.0\ref\Dvt.Elevator.Application.dll

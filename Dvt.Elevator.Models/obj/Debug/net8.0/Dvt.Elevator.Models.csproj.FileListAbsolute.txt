@@ -1,0 +1,12 @@
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Models\bin\Debug\net8.0\Dvt.Elevator.Models.deps.json
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Models\bin\Debug\net8.0\Dvt.Elevator.Models.dll
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Models\bin\Debug\net8.0\Dvt.Elevator.Models.pdb
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Models\obj\Debug\net8.0\Dvt.Elevator.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Models\obj\Debug\net8.0\Dvt.Elevator.Models.AssemblyInfoInputs.cache
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Models\obj\Debug\net8.0\Dvt.Elevator.Models.AssemblyInfo.cs
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Models\obj\Debug\net8.0\Dvt.Elevator.Models.csproj.CoreCompileInputs.cache
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Models\obj\Debug\net8.0\Dvt.Elevator.Models.sourcelink.json
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Models\obj\Debug\net8.0\Dvt.Elevator.Models.dll
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Models\obj\Debug\net8.0\refint\Dvt.Elevator.Models.dll
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Models\obj\Debug\net8.0\Dvt.Elevator.Models.pdb
+C:\New Repo\sample\Dvt.Elevator.Client.Console\Dvt.Elevator.Models\obj\Debug\net8.0\ref\Dvt.Elevator.Models.dll
